@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+.card{
+    width: 30%;
+    height: 90vh;
+    background: #e0dedb;
+    margin-top: 20vh;
+}
+.card img{
+    width: 90px;
+}
+h4, p{
+    text-align: center;
+}
+.btn{
+    margin-left: 140vh;
+}
